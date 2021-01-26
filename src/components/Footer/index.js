@@ -15,7 +15,7 @@ const FooterWrapper = styled.footer`
     color: #fff;
   }
   a {
-    color:#a3b29f ;
+    color:#b9934a ;
     text-decoration: none;
     transition: .3s;
     &:hover,

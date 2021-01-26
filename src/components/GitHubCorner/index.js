@@ -12,7 +12,7 @@ const Wrapper = styled.div`
 
 const SVGWrapper = styled.svg`
   fill: ${({ theme }) => theme.colors.mainBg};
-  color: ${({ theme }) => theme.colors.wrong};
+  color: ${({ theme }) => theme.colors.primary};
   cursor: pointer;
   &:hover .octo-arm{
     animation:octocat-wave 560ms ease-in-out

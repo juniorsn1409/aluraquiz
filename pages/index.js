@@ -1,11 +1,12 @@
 import styled from 'styled-components';
+import Head from 'next/head';
+
 import db from '../db.json';
 import Widget from '../src/components/Widget'
 import QuizLogo from '../src/components/QuizLogo'
 import QuizBackground from '../src/components/QuizBackground'
 import Footer from '../src/components/Footer'
 import GitHubCorner from '../src/components/GitHubCorner'
-
 
 export const BackgroundImage = styled.div`
   background-image: url(${db.bg});
@@ -19,8 +20,7 @@ export const BackgroundImage = styled.div`
 export const QuizContainer  = styled.div`
   width: 100%;
   max-width: 350px;
-  padding-top: 0px;
-  margin:  7%;
+  margin:  5% 8%;
 
   @media screen and (max-width: 500px) {
     margin: auto;
@@ -31,7 +31,13 @@ export const QuizContainer  = styled.div`
 export default function Home() {
   return (
     <QuizBackground backgroundImage={db.bg}>
+      <Head>
+        <title>AluraQuiz - Star Trek</title>
+        <link rel="preconnect" href="https://fonts.gstatic.com"></link>
+        <link href="https://fonts.googleapis.com/css2?family=Squada+One&display=swap" rel="stylesheet"></link>
+      </Head>
       <QuizContainer>
+        <QuizLogo/>
         <Widget>
           <Widget.Header>
             <h1>{db.title}</h1>
