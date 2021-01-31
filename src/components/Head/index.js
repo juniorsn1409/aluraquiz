@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import Head from 'next/head'
+import Head from 'next/head';
 /*
 function IndexPage() {
   return (
@@ -12,5 +12,5 @@ function IndexPage() {
     </div>
   )
 }
-**/
-export default IndexPage
+* */
+export default IndexPage;

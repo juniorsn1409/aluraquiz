@@ -1,0 +1,10 @@
+/* 
+// marron: #34130a
+// laranja: #b13b15
+// vermelho: #bd2800
+// letras: #a39169
+// amarelo claro: #eedfb4
+// amarelo escuro: #b9934a
+// azul claro: #a3b29f
+// azul escuro: #377d72
+*/

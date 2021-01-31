@@ -1,28 +1,19 @@
 {
     "bg": "https://images3.alphacoders.com/551/551729.jpg",
-    "title": "Quiz Star Trek: Discovery",
-    "description": "Teste os seus conhecimentos sobre StarTrek",
+    "bg2": "https://images3.alphacoders.com/101/1010067.jpg",
+    "title": "Quiz: Star Trek ",
+    "description": "Você é um verdadeiro Trekkie?",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "https://static.wikia.nocookie.net/explaining-errors-in-star-trek/images/d/d5/Where-no-man-has-gone-before-star-trek.jpg",
+        "title": "Qual o nome do episódio-piloto de Jornada nas Estrelas? ",
+        "description": "que foi lançado com sucesso?",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
-        ]
-      },
-      {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
-        "answer": 0,
-        "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+          "The Cage",
+          "Where no Man has Gone Before",
+          "Amok Time",
+          "The First Duty"
         ]
       }
     ],
