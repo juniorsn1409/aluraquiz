@@ -8,6 +8,32 @@
         "image": "https://static.wikia.nocookie.net/explaining-errors-in-star-trek/images/d/d5/Where-no-man-has-gone-before-star-trek.jpg",
         "title": "Qual o nome do episódio-piloto de Jornada nas Estrelas? ",
         "description": "que foi lançado com sucesso?",
+        "answer": 1,
+        "alternatives": [
+          "The Cage",
+          "Where no Man has Gone Before",
+          "Amok Time",
+          "The First Duty"
+        ]
+        
+      },
+      {
+        "image": "https://static.wikia.nocookie.net/explaining-errors-in-star-trek/images/d/d5/Where-no-man-has-gone-before-star-trek.jpg",
+        "title": "Qual o nome do episódio-piloto de Jornada nas Estrelas? ",
+        "description": "que foi lançado com sucesso?",
+        "answer": 1,
+        "alternatives": [
+          "The Cage",
+          "Where no Man has Gone Before",
+          "Amok Time",
+          "The First Duty"
+        ]
+        
+      },
+      {
+        "image": "https://static.wikia.nocookie.net/explaining-errors-in-star-trek/images/d/d5/Where-no-man-has-gone-before-star-trek.jpg",
+        "title": "Qual o nome do episódio-piloto de Jornada nas Estrelas? ",
+        "description": "que foi lançado com sucesso?",
         "answer": 2,
         "alternatives": [
           "The Cage",
@@ -15,6 +41,33 @@
           "Amok Time",
           "The First Duty"
         ]
+        
+      },
+      {
+        "image": "https://static.wikia.nocookie.net/explaining-errors-in-star-trek/images/d/d5/Where-no-man-has-gone-before-star-trek.jpg",
+        "title": "Qual o nome do episódio-piloto de Jornada nas Estrelas? ",
+        "description": "que foi lançado com sucesso?",
+        "answer": 2,
+        "alternatives": [
+          "The Cage",
+          "Where no Man has Gone Before",
+          "Amok Time",
+          "The First Duty"
+        ]
+        
+      },
+      {
+        "image": "https://static.wikia.nocookie.net/explaining-errors-in-star-trek/images/d/d5/Where-no-man-has-gone-before-star-trek.jpg",
+        "title": "Qual o nome do episódio-piloto de Jornada nas Estrelas? ",
+        "description": "que foi lançado com sucesso?",
+        "answer": 2,
+        "alternatives": [
+          "The Cage",
+          "Where no Man has Gone Before",
+          "Amok Time",
+          "The First Duty"
+        ]
+        
       }
     ],
     "external": [
